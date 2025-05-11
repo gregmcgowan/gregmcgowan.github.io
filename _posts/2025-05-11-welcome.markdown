@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "First post"
+date:   2025-05-11 14:45:01 +0100
+categories: Post
+---
+Hello and welcome to my blog
